@@ -1,0 +1,1 @@
+"./control.obj" "./lab08.obj" "./mp3.obj" "./sound.obj" "../ssi_DAC.obj" "./tm4c1294ncpdt_startup_ccs.obj" "../libmad.lib" "../tm4c1294ncpdt.cmd" -l"/Users/tnor/workspace_v8/ff13b/ff13b.lib" -l"/Users/tnor/workspace_v8/periph/Debug/periph.lib" -l"/Users/tnor/workspace_v8/utils/Debug/utils.lib" -llibc.a 
